@@ -1,8 +1,8 @@
 file_format: "1"
-id: claudia
-name: Claudia
+id: littlefoot
+name: LittleFoot
 type: shield
-url: https://github.com/subottimale/Claudia
+url: https://github.com/The-Royal
 requires: [pro_micro]
 features:
   - keys

@@ -1,1 +1,1 @@
-# zmk-config-claudia
+# zmk-config-littlefoot
